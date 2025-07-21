@@ -1,4 +1,4 @@
-# Bubble Sort Visual Example
+# Bubble Sort Example
 
 This is a simple Python program that demonstrates the **Bubble Sort** algorithm. It generates a shuffled list of numbers and then sorts it using the basic Bubble Sort technique.
 
